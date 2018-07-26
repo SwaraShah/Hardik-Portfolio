@@ -1,0 +1,85 @@
+body {
+	background: url("images/background-black-blank-733857.jpg") no-repeat center;
+	background-size: 100% 100%;
+    font-family: 'Lato', sans-serif;
+}	
+
+* {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+}
+
+.nav-right {
+	padding: 10px;
+	margin-top: 10px;
+}
+
+.main-img {
+	height: 350px;
+	width: 250px;
+	margin-top: 30%;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cap-col {
+	color: #191970;
+}
+
+.margin-logo {
+	margin-top: 5%;
+}
+
+.steve-logo {
+	position: relative;
+	background-color: black;
+}
+
+.main-name {
+	font-size: 50px;
+	font-weight: bold;
+	color: #191970;
+}
+
+.shape {
+	width: 50px;
+	height: 50px;
+}
+
+.footer-col {
+	color: #99334d;
+}
+
+.dropdown-color {
+	color: hotpink;
+}
+
+.boldness {
+	font-weight: bold;
+}
+
+.decoration {
+	text-decoration: underline;
+}
+
+.list-square {
+	list-style-type: square;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.name-margin {
+	margin-top: 15%;
+}
+
+/*.modal-content {
+	background-color: #778899;
+	color: white;
+}*/
